@@ -6,6 +6,6 @@
   <title>Heroku-demo</title>
 </head>
 <body>
-  <p>It works!</p>
+  <p>It works in Heroku!</p>
 </body>
 </html>
